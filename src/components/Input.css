@@ -1,0 +1,22 @@
+/* div{
+    background-color: white;
+} */
+
+/* label{
+ color: gray;
+ font-size: 1.5rem;
+ padding: 0 0.5rem ;
+ left: 1rem;
+ transition:all 1s ;
+ pointer-events: none;
+ transform: translateX(0) translateY(0rem) ;
+ transition: transform 1s;
+ 
+} */
+/* input:valid ~ label, */
+ /* input:focus ~ label{
+    color: #3b82f6;
+    font-size: 1rem;
+    top: 0.25rem;
+} */
+
